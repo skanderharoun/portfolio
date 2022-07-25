@@ -13,7 +13,7 @@ function Navbar(props) {
                 <ul className="navbar-nav">
                     <li className="nav-item">
                         
-                        <NavLink exact className="nav-link" to='/home'>Home</NavLink>
+                        <NavLink exact className="nav-link" to='/'>Home</NavLink>
                     </li>
                     <li className="nav-item">
                         
